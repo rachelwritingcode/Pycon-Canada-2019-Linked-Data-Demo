@@ -3,6 +3,7 @@
 ### What is this?
 - This jupyter notebook outlines a few Python libraries, RDFLIB, SPARQLWrapper and ontospy which can be used to navigate linkedin data. 
 - In this talk we outline a variety of uses for linked data as well as graph databases. 
+- We specifically go into detail about using [GraphDB](https://graphdb.ontotext.com/) in our demo. 
 
 ### Why is this important?
 - Our entire world wide web already is composed of linked data. In this talk we demonstrated how python module RDFlib is able to traverse and parse linked data.

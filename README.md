@@ -1,7 +1,7 @@
 ### Pycon Canada Demo Jupyter Notebook 🐍 🇨🇦
 
 ### What is this?
-- This jupyter notebook outlines a few Python libraries, RDFLIB, SPARQLWrapper and ontospy which can be used to navigate linkedin data. 
+- This jupyter notebook outlines a few Python libraries, RDFLIB, SPARQLWrapper and ontospy which can be used to navigate linked data. 
 - In this talk we outline a variety of uses for linked data as well as graph databases. 
 - We specifically go into detail about using [GraphDB](https://graphdb.ontotext.com/) in our demo. 
 
